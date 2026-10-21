@@ -43,14 +43,6 @@
 
 ---
 
-### 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiseyam&custom_title=Seyam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=FFFFFF&area=true" width="100%" />
-</p>
-
----
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.facebook.com/seyam.code/" target="_blank">
